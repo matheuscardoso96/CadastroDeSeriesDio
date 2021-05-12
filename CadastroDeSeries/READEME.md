@@ -1,0 +1,1 @@
+Repositório do projeto de cadastro de séries.
